@@ -1,0 +1,1865 @@
+{
+ "site": {
+  "texts": {
+   "nav": {
+    "home": {
+     "ar": "الرئيسية",
+     "en": "Home"
+    },
+    "services": {
+     "ar": "خدماتنا",
+     "en": "Services"
+    },
+    "portfolio": {
+     "ar": "أعمالنا",
+     "en": "Portfolio"
+    },
+    "about": {
+     "ar": "من نحن",
+     "en": "About"
+    },
+    "contact": {
+     "ar": "تواصل معنا",
+     "en": "Contact"
+    },
+    "getStarted": {
+     "ar": "ابدأ الآن",
+     "en": "Get Started"
+    }
+   },
+   "hero": {
+    "eyebrow": {
+     "ar": "خدماتنا",
+     "en": "OUR SERVICES"
+    },
+    "title": [
+     {
+      "ar": "حلول رقمية متكاملة",
+      "en": "End-to-End Digital Solutions for"
+     },
+     {
+      "ar": "لنجاح عملك",
+      "en": "Your Business"
+     }
+    ],
+    "desc": {
+     "ar": "نصنع تجارب رقمية تساعد العلامات التجارية على النمو وجذب جمهورها وتحقيق نتائج حقيقية. خدماتنا مصممة لتحويل أفكارك من الاستراتيجية إلى التنفيذ إلى حلول رقمية مؤثرة.",
+     "en": "We craft digital experiences that help brands grow, engage their audience and achieve real results. From strategy to execution, our services are designed to turn your ideas into impactful digital solutions."
+    },
+    "cta": {
+     "ar": "ابدأ الآن",
+     "en": "Get Started"
+    },
+    "watch": {
+     "ar": "شاهد أعمالنا",
+     "en": "Watch Our Work"
+    }
+   },
+   "serviceCards": [
+    {
+     "title": {
+      "ar": "تطوير المواقع",
+      "en": "Web Development"
+     },
+     "desc": {
+      "ar": "مواقع حديثة وسريعة وقابلة للتوسع مبنية للأداء والنمو.",
+      "en": "Modern, fast and scalable websites built for performance and growth."
+     },
+     "icon": "code"
+    },
+    {
+     "title": {
+      "ar": "تصميم UI/UX",
+      "en": "UI/UX Design"
+     },
+     "desc": {
+      "ar": "تصاميم واضحة وسهلة الاستخدام تصنع قيمة حقيقية.",
+      "en": "Clean, intuitive and user-centered designs that create real value."
+     },
+     "icon": "pen"
+    },
+    {
+     "title": {
+      "ar": "التسويق الرقمي",
+      "en": "Digital Marketing"
+     },
+     "desc": {
+      "ar": "استراتيجيات قائمة على البيانات لزيادة وصولك وتفاعلك.",
+      "en": "Data-driven strategies to increase your reach and engagement."
+     },
+     "icon": "megaphone"
+    },
+    {
+     "title": {
+      "ar": "الهوية والعلامة التجارية",
+      "en": "Branding & Identity"
+     },
+     "desc": {
+      "ar": "هويات بصرية قوية تجعل علامتك لا تُنسى.",
+      "en": "Strong visual identities that make your brand unforgettable."
+     },
+     "icon": "chart"
+    }
+   ],
+   "serviceRows": [
+    {
+     "label": {
+      "ar": "تطوير المواقع",
+      "en": "WEB DEVELOPMENT"
+     },
+     "title": {
+      "ar": "مواقع حديثة وسريعة وقابلة للتوسع، مبنية للأداء والنمو.",
+      "en": "Modern, fast and scalable websites built for performance and growth."
+     },
+     "desc": {
+      "ar": "نبني مواقع وتطبيقات ويب عالية الأداء، آمنة وقابلة للتوسع ومصممة لأهداف عملك. من صفحات الهبوط البسيطة إلى المنصات المعقدة، نحوّل رؤيتك إلى منتجات رقمية نظيفة وعملية وحديثة.",
+      "en": "We build high-performance websites and web applications that are secure, scalable and tailored to your business goals. From simple landing pages to complex platforms, we turn your vision into clean, functional and modern digital products."
+     },
+     "items": [
+      {
+       "ar": "مواقع وتطبيقات ويب مخصصة",
+       "en": "Custom Websites & Web Apps"
+      },
+      {
+       "ar": "تكامل أنظمة إدارة المحتوى (ووردبريس وغيره)",
+       "en": "CMS Integration (WordPress, etc.)"
+      },
+      {
+       "ar": "تحسين الأداء ومحركات البحث",
+       "en": "Performance & SEO Optimization"
+      },
+      {
+       "ar": "دعم وصيانة مستمرة",
+       "en": "Ongoing Support & Maintenance"
+      }
+     ],
+     "art": "laptop"
+    },
+    {
+     "label": {
+      "ar": "تصميم UI/UX",
+      "en": "UI/UX DESIGN"
+     },
+     "title": {
+      "ar": "تصاميم نظيفة وسهلة الاستخدام تصنع قيمة حقيقية.",
+      "en": "Clean, intuitive and user-centered designs that create real value."
+     },
+     "desc": {
+      "ar": "نصمم تجارب رقمية ليست جميلة فحسب، بل سهلة الاستخدام ومبنية حول احتياجات مستخدميك. عملية UI/UX لدينا تساعدك على تحويل الأفكار إلى تجارب سلسة وجذابة تحقق النتائج.",
+      "en": "We design digital experiences that are not only beautiful, but also easy to use and built around your users’ needs. Our UI/UX process helps you turn ideas into seamless and engaging experiences that drive results."
+     },
+     "items": [
+      {
+       "ar": "أبحاث المستخدم والتحليل",
+       "en": "User Research & Analysis"
+      },
+      {
+       "ar": "الهياكل السلكية والنماذج الأولية",
+       "en": "Wireframes & Prototypes"
+      },
+      {
+       "ar": "تصميم الواجهات وأنظمة التصميم",
+       "en": "UI Design & Visual Systems"
+      },
+      {
+       "ar": "اختبار قابلية الاستخدام",
+       "en": "Usability Testing"
+      }
+     ],
+     "art": "phones"
+    },
+    {
+     "label": {
+      "ar": "التسويق الرقمي",
+      "en": "DIGITAL MARKETING"
+     },
+     "title": {
+      "ar": "استراتيجيات قائمة على البيانات لزيادة وصولك وتفاعلك.",
+      "en": "Data-driven strategies to increase your reach and engagement."
+     },
+     "desc": {
+      "ar": "نساعد العلامات التجارية على النمو عبر التسويق الرقمي الذكي وصناعة المحتوى والحملات المبنية على الأداء. من تحسين محركات البحث إلى وسائل التواصل، نضع علامتك أمام الجمهور المناسب ونحوّل الاهتمام إلى فعل.",
+      "en": "We help brands grow through smart digital marketing strategies, content creation, and performance-driven campaigns. From SEO to social media, we get your brand in front of the right audience — and turn attention into action."
+     },
+     "items": [
+      {
+       "ar": "SEO واستراتيجية المحتوى",
+       "en": "SEO & Content Strategy"
+      },
+      {
+       "ar": "إدارة وسائل التواصل الاجتماعي",
+       "en": "Social Media Management"
+      },
+      {
+       "ar": "الإعلانات المدفوعة (جوجل وميتا)",
+       "en": "Paid Advertising (Google & Meta)"
+      },
+      {
+       "ar": "التحليلات والتقارير",
+       "en": "Analytics & Reporting"
+      }
+     ],
+     "art": "dash"
+    },
+    {
+     "label": {
+      "ar": "الهوية والعلامة التجارية",
+      "en": "BRANDING & IDENTITY"
+     },
+     "title": {
+      "ar": "هويات بصرية قوية تجعل علامتك لا تُنسى.",
+      "en": "Strong visual identities that make your brand unforgettable."
+     },
+     "desc": {
+      "ar": "نصنع هويات علامة متكاملة تعبّر عن قيمك وتتواصل مع جمهورك وتميزك عن الآخرين. من تصميم الشعار إلى أدلة العلامة الكاملة، نبني الأساس لانطباع يدوم.",
+      "en": "We create cohesive brand identities that express your values, connect with your audience and set you apart. From logo design to full brand guidelines, we build the foundation for a lasting impression."
+     },
+     "items": [
+      {
+       "ar": "تصميم الشعار والهوية",
+       "en": "Logo Design & Brand Identity"
+      },
+      {
+       "ar": "أدلة العلامة التجارية",
+       "en": "Brand Guidelines"
+      },
+      {
+       "ar": "تصميم وسائل التواصل",
+       "en": "Social Media Design"
+      },
+      {
+       "ar": "المواد المطبوعة والرقمية",
+       "en": "Print & Digital Assets"
+      }
+     ],
+     "art": "brand"
+    }
+   ],
+   "learnMore": {
+    "ar": "اعرف المزيد",
+    "en": "Learn More"
+   },
+   "portfolio": {
+    "eyebrow": {
+     "ar": "أعمالنا",
+     "en": "OUR PORTFOLIO"
+    },
+    "title": [
+     {
+      "ar": "مشاريع حقيقية.",
+      "en": "Real Projects."
+     },
+     {
+      "ar": "أثر قابل للقياس.",
+      "en": "Measurable Impact."
+     }
+    ],
+    "desc": {
+     "ar": "استكشف أحدث أعمالنا وشاهد كيف نحوّل الأفكار إلى تجارب رقمية قوية. كل مشروع هو نتيجة تعاون الاستراتيجية والإبداع والتقنية.",
+     "en": "Explore our latest work and see how we turn ideas into powerful digital experiences. Each project is a result of strategy, creativity, and technology working together."
+    },
+    "stats": [
+     {
+      "ar": "مشروع منجز",
+      "en": "Projects Completed"
+     },
+     {
+      "ar": "عميل سعيد",
+      "en": "Happy Clients"
+     },
+     {
+      "ar": "سنوات خبرة",
+      "en": "Years of Experience"
+     }
+    ],
+    "exploreLabel": {
+     "ar": "استكشف أعمالنا",
+     "en": "EXPLORE OUR WORK"
+    },
+    "exploreDesc": {
+     "ar": "اطّلع على مجموعة مختارة من المشاريع التي عملنا عليها في مجالات الحلول الرقمية المختلفة.",
+     "en": "Discover a selection of projects we’ve worked on across various fields of digital solutions."
+    },
+    "filters": {
+     "all": {
+      "ar": "الكل",
+      "en": "All"
+     },
+     "web": {
+      "ar": "تطوير المواقع",
+      "en": "Web Development"
+     },
+     "uiux": {
+      "ar": "تصميم UI/UX",
+      "en": "UI/UX Design"
+     },
+     "marketing": {
+      "ar": "التسويق الرقمي",
+      "en": "Digital Marketing"
+     },
+     "branding": {
+      "ar": "الهوية والعلامة",
+      "en": "Branding & Identity"
+     }
+    },
+    "categories": {
+     "web": {
+      "ar": "تطوير المواقع",
+      "en": "WEB DEVELOPMENT"
+     },
+     "uiux": {
+      "ar": "تصميم UI/UX",
+      "en": "UI/UX DESIGN"
+     },
+     "marketing": {
+      "ar": "التسويق الرقمي",
+      "en": "DIGITAL MARKETING"
+     },
+     "branding": {
+      "ar": "الهوية والعلامة التجارية",
+      "en": "BRANDING & IDENTITY"
+     }
+    },
+    "viewProject": {
+     "ar": "عرض المشروع",
+     "en": "View Project"
+    },
+    "caseLabel": {
+     "ar": "دراسة حالة مميزة",
+     "en": "FEATURED CASE STUDY"
+    },
+    "caseBtn": {
+     "ar": "عرض دراسة الحالة",
+     "en": "View Case Study"
+    }
+   },
+   "about": {
+    "eyebrow": {
+     "ar": "عن PDM",
+     "en": "ABOUT PDM"
+    },
+    "title": [
+     {
+      "ar": "أكثر من مجرد وكالة رقمية.",
+      "en": "More Than a Digital Agency."
+     },
+     {
+      "ar": "نحن شريك نموّك.",
+      "en": "We’re Your Growth Partner."
+     }
+    ],
+    "desc": {
+     "ar": "في PDM نجمع بين الاستراتيجية والإبداع والتقنية لبناء حلول رقمية تساعد الأعمال على النمو. لسنا مجرد مزوّد خدمة — نحن فريق يهتم بنجاحك.",
+     "en": "At PDM, we combine strategy, creativity, and technology to build digital solutions that help businesses grow. We’re not just a service provider — we’re a team that cares about your success."
+    },
+    "story": {
+     "ar": "قصتنا",
+     "en": "Our Story"
+    },
+    "watchVideo": {
+     "ar": "شاهد الفيديو",
+     "en": "Watch Our Video"
+    },
+    "whoLabel": {
+     "ar": "من نحن",
+     "en": "WHO WE ARE"
+    },
+    "whoTitle": {
+     "ar": "فريق من المفكرين والمبدعين وحلّالي المشكلات",
+     "en": "A team of thinkers, creators and problem solvers."
+    },
+    "whoDesc": {
+     "ar": "تأسست PDM على إيمان بسيط: التجارب الرقمية العظيمة تصنع أثراً حقيقياً في الأعمال. نجمع أشخاصاً موهوبين من خلفيات مختلفة لتحويل الأفكار إلى منتجات وعلامات وتجارب تصنع الفرق.",
+     "en": "PDM was founded with a simple belief: great digital experiences can create real business impact. We bring together talented people from different backgrounds to turn ideas into products, brands and experiences that make a difference."
+    },
+    "moreAbout": {
+     "ar": "اعرف المزيد عنا",
+     "en": "Learn More About Us"
+    },
+    "mission": {
+     "title": {
+      "ar": "مهمتنا",
+      "en": "Our Mission"
+     },
+     "desc": {
+      "ar": "تقديم حلول رقمية مبتكرة تساعد الأعمال على النمو وتترك أثراً دائماً.",
+      "en": "To deliver innovative digital solutions that help businesses grow and make a lasting impact."
+     }
+    },
+    "vision": {
+     "title": {
+      "ar": "رؤيتنا",
+      "en": "Our Vision"
+     },
+     "desc": {
+      "ar": "أن نكون الشريك الرقمي الأول للعلامات التي تريد بناء مستقبل أذكى وأقوى.",
+      "en": "To be a leading digital partner for brands that want to build a smarter, stronger future."
+     }
+    },
+    "values": {
+     "title": {
+      "ar": "قيمنا",
+      "en": "Our Values"
+     },
+     "items": [
+      {
+       "ar": "الإبداع",
+       "en": "Creativity"
+      },
+      {
+       "ar": "التعاون",
+       "en": "Collaboration"
+      },
+      {
+       "ar": "الجودة",
+       "en": "Quality"
+      },
+      {
+       "ar": "النمو المستمر",
+       "en": "Continuous Growth"
+      }
+     ]
+    },
+    "teamLabel": {
+     "ar": "فريقنا",
+     "en": "Our Team"
+    },
+    "teamTitle": [
+     {
+      "ar": "أشخاص موهوبون.",
+      "en": "Talented people."
+     },
+     {
+      "ar": "شغف حقيقي.",
+      "en": "Real passion."
+     }
+    ],
+    "teamDesc": {
+     "ar": "يجمع فريقنا مصممين ومطورين ومسوّقين واستراتيجيين يتشاركون هدفاً واحداً: تحويل أفكارك إلى نتائج حقيقية.",
+     "en": "Our team brings together designers, developers, marketers and strategists who share one goal: turning your ideas into real results."
+    },
+    "meetTeam": {
+     "ar": "تعرّف على الفريق",
+     "en": "Meet the Team"
+    },
+    "stats": [
+     {
+      "ar": "مشروع منجز",
+      "en": "Projects Completed"
+     },
+     {
+      "ar": "عميل سعيد",
+      "en": "Happy Clients"
+     },
+     {
+      "ar": "سنوات خبرة",
+      "en": "Years of Experience"
+     },
+     {
+      "ar": "التزام بنجاحك",
+      "en": "Commitment to Your Success"
+     }
+    ]
+   },
+   "contact": {
+    "eyebrow": {
+     "ar": "تواصل معنا",
+     "en": "GET IN TOUCH"
+    },
+    "title": [
+     {
+      "ar": "نحن هنا",
+      "en": "We’re Here"
+     },
+     {
+      "ar": "لمساعدتك.",
+      "en": "to Help."
+     }
+    ],
+    "desc": {
+     "ar": "سواء كنت تبحث عن موقع جديد، أو تحتاج هوية علامة، أو تريد مناقشة حل رقمي مخصص — تواصل معنا بكل سهولة.",
+     "en": "Whether you’re looking for a new website, need a brand identity, or want to discuss a custom digital solution — feel free to reach out."
+    },
+    "email": {
+     "label": {
+      "ar": "البريد الإلكتروني",
+      "en": "Email"
+     },
+     "note": {
+      "ar": "نرد خلال 24 ساعة.",
+      "en": "We’ll respond within 24 hours."
+     }
+    },
+    "phone": {
+     "label": {
+      "ar": "الهاتف",
+      "en": "Phone"
+     },
+     "note": {
+      "ar": "الأحد – الخميس، 9:00 ص – 6:00 م (GMT+3)",
+      "en": "Mon – Fri, 9:00 AM – 6:00 PM (GMT+3)"
+     }
+    },
+    "office": {
+     "label": {
+      "ar": "المكتب",
+      "en": "Office"
+     },
+     "value": {
+      "ar": "رام الله، فلسطين",
+      "en": "Ramallah, Palestine"
+     },
+     "note": {
+      "ar": "نعمل مع عملاء حول العالم.",
+      "en": "We work with clients worldwide."
+     }
+    },
+    "formLabel": {
+     "ar": "أرسل لنا رسالة",
+     "en": "SEND US A MESSAGE"
+    },
+    "formTitle": [
+     {
+      "ar": "أخبرنا عن",
+      "en": "Tell Us About"
+     },
+     {
+      "ar": "مشروعك.",
+      "en": "Your Project."
+     }
+    ],
+    "formDesc": {
+     "ar": "املأ النموذج أدناه وسنعود إليك قريباً.",
+     "en": "Fill out the form below and we’ll get back to you shortly."
+    },
+    "name": {
+     "ar": "الاسم الكامل",
+     "en": "Full Name"
+    },
+    "namePh": {
+     "ar": "اسمك",
+     "en": "Your name"
+    },
+    "mail": {
+     "ar": "البريد الإلكتروني",
+     "en": "Email Address"
+    },
+    "mailPh": {
+     "ar": "you@company.com",
+     "en": "you@company.com"
+    },
+    "subject": {
+     "ar": "الموضوع",
+     "en": "Subject"
+    },
+    "subjectPh": {
+     "ar": "اختر موضوعاً",
+     "en": "Select a subject"
+    },
+    "subjects": [
+     {
+      "ar": "موقع إلكتروني جديد",
+      "en": "New Website"
+     },
+     {
+      "ar": "تصميم UI/UX",
+      "en": "UI/UX Design"
+     },
+     {
+      "ar": "تسويق رقمي",
+      "en": "Digital Marketing"
+     },
+     {
+      "ar": "هوية العلامة التجارية",
+      "en": "Branding & Identity"
+     },
+     {
+      "ar": "استفسار آخر",
+      "en": "Other Inquiry"
+     }
+    ],
+    "message": {
+     "ar": "الرسالة",
+     "en": "Message"
+    },
+    "messagePh": {
+     "ar": "أخبرنا المزيد عن مشروعك...",
+     "en": "Tell us more about your project..."
+    },
+    "send": {
+     "ar": "إرسال الرسالة",
+     "en": "Send Message"
+    },
+    "required": {
+     "ar": "هذا الحقل مطلوب",
+     "en": "This field is required"
+    },
+    "invalidMail": {
+     "ar": "بريد إلكتروني غير صالح",
+     "en": "Please enter a valid email"
+    },
+    "success": {
+     "ar": "تم إرسال رسالتك بنجاح! سنتواصل معك قريباً.",
+     "en": "Your message was sent! We’ll get back to you soon."
+    },
+    "locLabel": {
+     "ar": "موقعنا",
+     "en": "OUR LOCATION"
+    },
+    "locTitle": {
+     "ar": "زر مكتبنا",
+     "en": "Visit Our Office"
+    },
+    "locDesc": {
+     "ar": "مقرنا في رام الله، فلسطين، ونرحب دائماً بالفرص الجديدة والتعاون والمحادثات الرائعة.",
+     "en": "We’re based in Ramallah, Palestine, and always open to new opportunities, collaborations and great conversations."
+    },
+    "directions": {
+     "ar": "احصل على الاتجاهات",
+     "en": "Get Directions"
+    }
+   },
+   "cta": {
+    "label": {
+     "ar": "لنبنِ معاً",
+     "en": "LET’S BUILD TOGETHER"
+    },
+    "title": [
+     {
+      "ar": "جاهز لتحويل أفكارك",
+      "en": "Ready to turn your ideas"
+     },
+     {
+      "ar": "إلى نجاح رقمي؟",
+      "en": "into digital success?"
+     }
+    ],
+    "text": {
+     "ar": "من الاستراتيجية إلى الإطلاق، نحن هنا لنصنع حلولاً رقمية تُحدث فرقاً حقيقياً.",
+     "en": "From strategy to launch, we’re here to create digital solutions that make a real difference."
+    },
+    "btn": {
+     "ar": "ابدأ الآن",
+     "en": "Get Started"
+    }
+   },
+   "footer": {
+    "links": [
+     {
+      "ar": "أفكار",
+      "en": "Ideas"
+     },
+     {
+      "ar": "تصميم",
+      "en": "Design"
+     },
+     {
+      "ar": "تقنية",
+      "en": "Technology"
+     },
+     {
+      "ar": "نمو",
+      "en": "Growth"
+     }
+    ],
+    "rights": {
+     "ar": "© 2026 PDM. جميع الحقوق محفوظة.",
+     "en": "© 2026 PDM. All rights reserved."
+    },
+    "top": {
+     "ar": "العودة للأعلى",
+     "en": "Back to top"
+    }
+   },
+   "ui": {
+    "theme": {
+     "ar": "تبديل المظهر",
+     "en": "Toggle theme"
+    },
+    "menu": {
+     "ar": "القائمة",
+     "en": "Menu"
+    },
+    "close": {
+     "ar": "إغلاق",
+     "en": "Close"
+    }
+   },
+   "pages": {
+    "loading": {
+     "ar": "جاري التحميل...",
+     "en": "Loading..."
+    },
+    "loadError": {
+     "ar": "تعذّر تحميل المحتوى حالياً.",
+     "en": "We couldn’t load the content right now."
+    },
+    "retry": {
+     "ar": "إعادة المحاولة",
+     "en": "Try again"
+    },
+    "backProjects": {
+     "ar": "كل المشاريع",
+     "en": "All projects"
+    },
+    "home": {
+     "ar": "الرئيسية",
+     "en": "Home"
+    },
+    "client": {
+     "ar": "العميل",
+     "en": "Client"
+    },
+    "year": {
+     "ar": "السنة",
+     "en": "Year"
+    },
+    "duration": {
+     "ar": "المدة",
+     "en": "Duration"
+    },
+    "services": {
+     "ar": "الخدمات",
+     "en": "Services"
+    },
+    "overview": {
+     "ar": "نظرة عامة",
+     "en": "Overview"
+    },
+    "challenge": {
+     "ar": "التحدي",
+     "en": "The Challenge"
+    },
+    "solution": {
+     "ar": "الحل",
+     "en": "The Solution"
+    },
+    "results": {
+     "ar": "النتائج",
+     "en": "Results"
+    },
+    "features": {
+     "ar": "أبرز المزايا",
+     "en": "Key features"
+    },
+    "tools": {
+     "ar": "الأدوات والتقنيات",
+     "en": "Tools & technologies"
+    },
+    "gallery": {
+     "ar": "لمحات من المشروع",
+     "en": "Project highlights"
+    },
+    "prev": {
+     "ar": "المشروع السابق",
+     "en": "Previous project"
+    },
+    "next": {
+     "ar": "المشروع التالي",
+     "en": "Next project"
+    },
+    "moreWork": {
+     "ar": "المزيد من أعمالنا",
+     "en": "More of our work"
+    },
+    "startSimilar": {
+     "ar": "ابدأ مشروعاً مشابهاً",
+     "en": "Start a similar project"
+    },
+    "visitSite": {
+     "ar": "زيارة الموقع",
+     "en": "Visit website"
+    },
+    "storyCtaBtn": {
+     "ar": "تواصل معنا",
+     "en": "Get in touch"
+    },
+    "viewWork": {
+     "ar": "شاهد أعمالنا",
+     "en": "View our work"
+    },
+    "notFoundTitle": [
+     {
+      "ar": "عذراً،",
+      "en": "Sorry,"
+     },
+     {
+      "ar": "هذه الصفحة غير موجودة",
+      "en": "this page doesn’t exist"
+     }
+    ],
+    "notFoundDesc": {
+     "ar": "الرابط الذي تبحث عنه غير متوفر أو تم نقله.",
+     "en": "The link you’re looking for is unavailable or has moved."
+    },
+    "goHome": {
+     "ar": "العودة للرئيسية",
+     "en": "Back to home"
+    }
+   }
+  },
+  "numbers": {
+   "portfolioStats": [
+    {
+     "to": 50,
+     "prefix": "+",
+     "suffix": ""
+    },
+    {
+     "to": 30,
+     "prefix": "+",
+     "suffix": ""
+    },
+    {
+     "to": 4,
+     "prefix": "+",
+     "suffix": ""
+    }
+   ],
+   "aboutStats": [
+    {
+     "to": 50,
+     "prefix": "",
+     "suffix": "+"
+    },
+    {
+     "to": 30,
+     "prefix": "",
+     "suffix": "+"
+    },
+    {
+     "to": 4,
+     "prefix": "",
+     "suffix": "+"
+    },
+    {
+     "to": 100,
+     "prefix": "",
+     "suffix": "%"
+    }
+   ]
+  },
+  "contact": {
+   "email": "hello@pdm.com",
+   "phone": "+970 59 123 4567",
+   "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ramallah+Palestine",
+   "recipient": "hello@pdm.com",
+   "socials": [
+    {
+     "name": "instagram",
+     "url": ""
+    },
+    {
+     "name": "linkedin",
+     "url": ""
+    },
+    {
+     "name": "x",
+     "url": ""
+    },
+    {
+     "name": "youtube",
+     "url": ""
+    }
+   ]
+  },
+  "slider": {
+   "enabled": true,
+   "autoplay": true,
+   "interval": 5,
+   "transition": "fade",
+   "showDots": true,
+   "showArrows": true,
+   "pauseOnHover": true,
+   "slides": [
+    {
+     "id": "s1",
+     "image": "",
+     "active": true,
+     "alt": {
+      "ar": "صورة رئيسية",
+      "en": "Hero image"
+     },
+     "title": {
+      "ar": "",
+      "en": ""
+     },
+     "subtitle": {
+      "ar": "",
+      "en": ""
+     }
+    }
+   ]
+  },
+  "settings": {
+   "siteName": {
+    "ar": "PDM",
+    "en": "PDM"
+   },
+   "logo": "",
+   "favicon": "",
+   "primaryColor": "#0b3dff",
+   "defaultLang": "ar",
+   "defaultTheme": "light",
+   "showLangSwitcher": true,
+   "showThemeSwitcher": true,
+   "seo": {
+    "title": {
+     "ar": "PDM — وكالة رقمية",
+     "en": "PDM — Digital Agency"
+    },
+    "description": {
+     "ar": "حلول رقمية متكاملة لنجاح عملك.",
+     "en": "End-to-end digital solutions for your business."
+    },
+    "ogImage": ""
+   },
+   "maintenance": {
+    "on": false,
+    "message": {
+     "ar": "الموقع تحت الصيانة، نعود قريباً.",
+     "en": "We are under maintenance, back soon."
+    }
+   },
+   "tracking": {
+    "enabled": true,
+    "googleAnalyticsId": ""
+   }
+  },
+  "story": {
+   "hero": {
+    "eyebrow": {
+     "ar": "قصتنا",
+     "en": "OUR STORY"
+    },
+    "title": [
+     {
+      "ar": "بدأت بفكرة،",
+      "en": "It started with an idea,"
+     },
+     {
+      "ar": "وكبرت بشغف فريق.",
+      "en": "and grew with a team’s passion."
+     }
+    ],
+    "lead": {
+     "ar": "نحن PDM، شركة رقمية ناشئة وُلدت في رام الله من إيمان بسيط: أن الفرق المحلية قادرة على صناعة منتجات وتجارب رقمية بمستوى عالمي.",
+     "en": "We are PDM, a young digital company born in Ramallah from one simple belief: local teams can build world-class digital products and experiences."
+    }
+   },
+   "origin": {
+    "label": {
+     "ar": "كيف بدأنا",
+     "en": "HOW IT STARTED"
+    },
+    "title": {
+     "ar": "من طاولة صغيرة إلى فريق كامل",
+     "en": "From a small table to a full team"
+    },
+    "paragraphs": [
+     {
+      "ar": "في عام 2022 اجتمع ثلاثة أصدقاء — مصمم ومطوّر ومسوّق — حول طاولة صغيرة في رام الله. كان لكلٍّ منهم تجربة مختلفة، لكن الإحباط كان واحداً: الشركات الصغيرة والناشئة حولهم تملك أفكاراً رائعة، لكنها لا تجد شريكاً رقمياً يفهمها ويقدّم لها جودة عالية بسعر عادل.",
+      "en": "In 2022, three friends — a designer, a developer and a marketer — sat around a small table in Ramallah. Each had a different background, but the same frustration: the small businesses and startups around them had brilliant ideas, yet couldn’t find a digital partner that understood them and delivered high quality at a fair price."
+     },
+     {
+      "ar": "قررنا أن نكون هذا الشريك. بدأنا بجهاز لابتوب واحد وبضعة مشاريع صغيرة، وكنا نعمل ليلاً لنُتقن كل تفصيلة، لأننا كنا نعرف أن سمعتنا هي رأس مالنا الحقيقي.",
+      "en": "We decided to become that partner. We started with a single laptop and a few small projects, working late into the night to perfect every detail, because we knew our reputation was our real capital."
+     },
+     {
+      "ar": "ومع كل مشروع ناجح، كبر الفريق وكبرت معه خبرتنا. اليوم نجمع المصممين والمطورين والمسوّقين تحت سقف واحد، ونعمل مع عملاء من فلسطين والمنطقة، لكن روح البداية ما زالت كما هي: نصغي أولاً، ثم نبني.",
+      "en": "With every successful project the team grew, and so did our experience. Today we bring designers, developers and marketers under one roof and work with clients from Palestine and across the region, but the spirit of the beginning is the same: we listen first, then we build."
+     }
+    ]
+   },
+   "quote": {
+    "text": {
+     "ar": "«لم نبدأ بمكتب كبير ولا برأس مال ضخم. بدأنا بفكرة وإصرار، وقرار ألا نقبل بأقل من الأفضل.»",
+     "en": "“We didn’t start with a big office or big capital. We started with an idea, persistence, and a decision to never settle for less than our best.”"
+    },
+    "author": {
+     "ar": "— الفريق المؤسس لـ PDM",
+     "en": "— The PDM founding team"
+    }
+   },
+   "timeline": {
+    "label": {
+     "ar": "رحلتنا",
+     "en": "OUR JOURNEY"
+    },
+    "title": [
+     {
+      "ar": "محطات صنعت",
+      "en": "The milestones that"
+     },
+     {
+      "ar": "من نحن اليوم",
+      "en": "made us who we are"
+     }
+    ],
+    "items": [
+     {
+      "year": "2022",
+      "title": {
+       "ar": "الفكرة الأولى",
+       "en": "The first idea"
+      },
+      "text": {
+       "ar": "اجتمع المؤسسون الثلاثة وقرروا بناء شركة رقمية تضع جودة التفاصيل في المقام الأول.",
+       "en": "The three founders came together and decided to build a digital company that puts quality of detail first."
+      }
+     },
+     {
+      "year": "2023",
+      "title": {
+       "ar": "أول العملاء",
+       "en": "Our first clients"
+      },
+      "text": {
+       "ar": "أطلقنا أول مواقعنا وهويات علاماتنا لعملاء محليين، وبنينا الثقة مشروعاً بعد مشروع.",
+       "en": "We launched our first websites and brand identities for local clients, building trust one project at a time."
+      }
+     },
+     {
+      "year": "2024",
+      "title": {
+       "ar": "كبر الفريق",
+       "en": "The team grows"
+      },
+      "text": {
+       "ar": "انضم إلينا مصممو واجهات ومطورون ومختصو تسويق، وصارت خدماتنا الأربع تحت سقف واحد.",
+       "en": "UI designers, developers and marketing specialists joined us, bringing all four of our services under one roof."
+      }
+     },
+     {
+      "year": "2025",
+      "title": {
+       "ar": "خارج الحدود",
+       "en": "Beyond borders"
+      },
+      "text": {
+       "ar": "بدأنا العمل مع عملاء من المنطقة، وأطلقنا منتجات رقمية أكبر وأكثر تعقيداً.",
+       "en": "We began working with clients across the region and launched bigger, more complex digital products."
+      }
+     },
+     {
+      "year": "2026",
+      "title": {
+       "ar": "اليوم وما بعده",
+       "en": "Today and beyond"
+      },
+      "text": {
+       "ar": "أكثر من 50 مشروعاً منجزاً، وما زلنا نرى أن أفضل ما لدينا لم يأتِ بعد.",
+       "en": "More than 50 completed projects, and we still believe our best work is yet to come."
+      }
+     }
+    ]
+   },
+   "values": {
+    "label": {
+     "ar": "ما نؤمن به",
+     "en": "WHAT WE BELIEVE"
+    },
+    "title": [
+     {
+      "ar": "قيم تقود",
+      "en": "Values that guide"
+     },
+     {
+      "ar": "كل قرار نتخذه",
+      "en": "every decision we make"
+     }
+    ],
+    "items": [
+     {
+      "icon": "pen",
+      "title": {
+       "ar": "الإبداع",
+       "en": "Creativity"
+      },
+      "text": {
+       "ar": "نبحث عن الفكرة الأذكى وليس الأسهل، ونصمّم بما يميّز علامتك فعلاً.",
+       "en": "We look for the smartest idea, not the easiest, and design what truly sets your brand apart."
+      }
+     },
+     {
+      "icon": "target",
+      "title": {
+       "ar": "الشراكة",
+       "en": "Partnership"
+      },
+      "text": {
+       "ar": "نعمل كجزء من فريقك: نصغي، نشارك، ونتحمّل مسؤولية النتيجة معك.",
+       "en": "We work as part of your team: we listen, collaborate and share responsibility for the result."
+      }
+     },
+     {
+      "icon": "diamond",
+      "title": {
+       "ar": "الجودة",
+       "en": "Quality"
+      },
+      "text": {
+       "ar": "التفاصيل الصغيرة هي ما يصنع الفرق، ولا نسلّم عملاً لا نفخر به.",
+       "en": "Small details make the difference, and we never deliver work we’re not proud of."
+      }
+     },
+     {
+      "icon": "trend",
+      "title": {
+       "ar": "النمو المستمر",
+       "en": "Continuous growth"
+      },
+      "text": {
+       "ar": "نتعلم كل يوم، ونقيس أثر عملنا، ونحسّنه لننمو معك.",
+       "en": "We learn every day, measure the impact of our work and improve it so we grow with you."
+      }
+     }
+    ]
+   },
+   "numbers": {
+    "label": {
+     "ar": "PDM بالأرقام",
+     "en": "PDM IN NUMBERS"
+    },
+    "items": [
+     {
+      "to": 50,
+      "prefix": "+",
+      "suffix": "",
+      "label": {
+       "ar": "مشروع منجز",
+       "en": "Projects completed"
+      }
+     },
+     {
+      "to": 30,
+      "prefix": "+",
+      "suffix": "",
+      "label": {
+       "ar": "عميل سعيد",
+       "en": "Happy clients"
+      }
+     },
+     {
+      "to": 4,
+      "prefix": "+",
+      "suffix": "",
+      "label": {
+       "ar": "سنوات من الخبرة",
+       "en": "Years of experience"
+      }
+     },
+     {
+      "to": 100,
+      "prefix": "",
+      "suffix": "%",
+      "label": {
+       "ar": "التزام بنجاحك",
+       "en": "Commitment to your success"
+      }
+     }
+    ]
+   },
+   "vision": {
+    "label": {
+     "ar": "نظرتنا للمستقبل",
+     "en": "LOOKING AHEAD"
+    },
+    "title": {
+     "ar": "ما زالت القصة في بدايتها",
+     "en": "The story is only beginning"
+    },
+    "text": {
+     "ar": "نطمح أن نكون الشريك الرقمي الأول للعلامات التي تريد بناء مستقبل أذكى وأقوى، وأن نثبت أن الإبداع الفلسطيني قادر على المنافسة في أي سوق. وأنت — إن شاركتنا فكرتك — ستكون جزءاً من الفصل القادم.",
+     "en": "We aspire to be the first digital partner for brands that want to build a smarter, stronger future, and to prove that Palestinian creativity can compete in any market. And you — if you share your idea with us — will be part of the next chapter."
+    }
+   }
+  }
+ },
+ "projects": [
+  {
+   "slug": "travelvista",
+   "title": "TravelVista",
+   "category": "web",
+   "art": "laptop",
+   "gallery": [
+    "laptop",
+    "phones",
+    "dash"
+   ],
+   "year": "2025",
+   "client": {
+    "ar": "شركة سفر ناشئة",
+    "en": "A travel startup"
+   },
+   "duration": {
+    "ar": "٤ أشهر",
+    "en": "4 months"
+   },
+   "services": [
+    {
+     "ar": "تطوير مواقع",
+     "en": "Web development"
+    },
+    {
+     "ar": "تصميم UI/UX",
+     "en": "UI/UX design"
+    }
+   ],
+   "summary": {
+    "ar": "منصة سفر حديثة بتجربة حجز سلسة وصور ساحرة.",
+    "en": "A modern travel platform with a seamless booking experience and stunning visuals."
+   },
+   "overview": [
+    {
+     "ar": "TravelVista منصة تتيح للمسافرين استكشاف الوجهات ومقارنة العروض وحجز رحلاتهم بخطوات قليلة من أي جهاز.",
+     "en": "TravelVista lets travelers explore destinations, compare offers and book trips in a few steps from any device."
+    },
+    {
+     "ar": "تولّينا المشروع من الفكرة حتى الإطلاق: تصميم الواجهات، بناء الموقع، وتهيئته لمحركات البحث.",
+     "en": "We took the project from idea to launch: interface design, building the site and optimizing it for search engines."
+    }
+   ],
+   "challenge": {
+    "ar": "كان الحجز يتطلب عدة صفحات ويُفقد الشركة نسبة كبيرة من الزوار قبل إتمام الدفع، كما كان الموقع القديم بطيئاً على الجوال.",
+    "en": "Booking required many pages and lost a large share of visitors before checkout, and the old site was slow on mobile."
+   },
+   "solution": {
+    "ar": "أعدنا بناء رحلة الحجز في ثلاث خطوات واضحة، وبنينا الموقع بتقنيات حديثة وصور محسّنة لسرعة تحميل عالية على الجوال.",
+    "en": "We rebuilt the booking journey into three clear steps and used modern technology with optimized images for fast mobile loading."
+   },
+   "features": [
+    {
+     "ar": "بحث ذكي مع فلاتر متقدمة",
+     "en": "Smart search with advanced filters"
+    },
+    {
+     "ar": "حجز في ثلاث خطوات",
+     "en": "Three-step booking"
+    },
+    {
+     "ar": "دعم كامل للعربية والإنجليزية",
+     "en": "Full Arabic & English support"
+    },
+    {
+     "ar": "لوحة تحكم لإدارة العروض",
+     "en": "Dashboard to manage offers"
+    }
+   ],
+   "results": [
+    {
+     "to": 64,
+     "prefix": "+",
+     "suffix": "%",
+     "label": {
+      "ar": "زيادة في الحجوزات",
+      "en": "Increase in bookings"
+     }
+    },
+    {
+     "to": 2,
+     "prefix": "",
+     "suffix": "s",
+     "label": {
+      "ar": "زمن التحميل",
+      "en": "Load time"
+     }
+    },
+    {
+     "to": 40,
+     "prefix": "-",
+     "suffix": "%",
+     "label": {
+      "ar": "انخفاض معدل الارتداد",
+      "en": "Lower bounce rate"
+     }
+    }
+   ],
+   "tools": [
+    "React",
+    "Node.js",
+    "PostgreSQL",
+    "Figma"
+   ],
+   "liveUrl": "",
+   "order": 0,
+   "published": true,
+   "cover": "",
+   "caseStudy": null,
+   "id": "travelvista"
+  },
+  {
+   "slug": "fitlife",
+   "title": "FitLife",
+   "category": "uiux",
+   "art": "phones",
+   "gallery": [
+    "phones",
+    "app",
+    "dash"
+   ],
+   "year": "2025",
+   "client": {
+    "ar": "تطبيق صحة ولياقة",
+    "en": "A health & fitness app"
+   },
+   "duration": {
+    "ar": "٣ أشهر",
+    "en": "3 months"
+   },
+   "services": [
+    {
+     "ar": "تصميم UI/UX",
+     "en": "UI/UX design"
+    },
+    {
+     "ar": "أبحاث المستخدمين",
+     "en": "User research"
+    }
+   ],
+   "summary": {
+    "ar": "تطبيق صحة ولياقة صُمّم ليحفّزك ويتابع تقدّمك.",
+    "en": "A health and fitness app designed to motivate and track your progress."
+   },
+   "overview": [
+    {
+     "ar": "FitLife تطبيق يساعد المستخدمين على بناء عادات صحية مستدامة عبر تمارين وخطط وتتبّع للتقدم.",
+     "en": "FitLife helps users build sustainable healthy habits through workouts, plans and progress tracking."
+    },
+    {
+     "ar": "كان دورنا تصميم تجربة المستخدم والواجهات كاملة، من الأبحاث الأولى حتى النماذج التفاعلية.",
+     "en": "Our role was designing the complete user experience and interface, from first research to interactive prototypes."
+    }
+   ],
+   "challenge": {
+    "ar": "كان معظم المستخدمين يتوقفون عن استخدام التطبيق بعد الأسبوع الأول بسبب تعقيد الواجهة وغياب التحفيز.",
+    "en": "Most users stopped using the app after the first week due to a complex interface and lack of motivation."
+   },
+   "solution": {
+    "ar": "بسّطنا الرحلة إلى أهداف يومية واضحة، وأضفنا عناصر تحفيز وإنجازات بصرية، واختبرنا النماذج مع مستخدمين حقيقيين.",
+    "en": "We simplified the journey into clear daily goals, added motivational elements and visual achievements, and tested prototypes with real users."
+   },
+   "features": [
+    {
+     "ar": "أهداف يومية مبسّطة",
+     "en": "Simple daily goals"
+    },
+    {
+     "ar": "شارات وإنجازات تحفيزية",
+     "en": "Motivating badges and achievements"
+    },
+    {
+     "ar": "رسوم بيانية للتقدم",
+     "en": "Progress charts"
+    },
+    {
+     "ar": "وضع داكن كامل",
+     "en": "Full dark mode"
+    }
+   ],
+   "results": [
+    {
+     "to": 48,
+     "prefix": "+",
+     "suffix": "%",
+     "label": {
+      "ar": "زيادة في الاحتفاظ بالمستخدمين",
+      "en": "Increase in user retention"
+     }
+    },
+    {
+     "to": 4,
+     "prefix": "",
+     "suffix": ".8",
+     "label": {
+      "ar": "تقييم المتجر",
+      "en": "Store rating"
+     }
+    },
+    {
+     "to": 30,
+     "prefix": "-",
+     "suffix": "%",
+     "label": {
+      "ar": "وقت إتمام التمرين الأول",
+      "en": "Time to first workout"
+     }
+    }
+   ],
+   "tools": [
+    "Figma",
+    "Maze",
+    "FigJam",
+    "Lottie"
+   ],
+   "liveUrl": "",
+   "order": 1,
+   "published": true,
+   "cover": "",
+   "caseStudy": null,
+   "id": "fitlife"
+  },
+  {
+   "slug": "growthgen",
+   "title": "GrowthGen",
+   "category": "marketing",
+   "art": "dash",
+   "gallery": [
+    "dash",
+    "finance",
+    "laptop"
+   ],
+   "year": "2024",
+   "client": {
+    "ar": "متجر إلكتروني",
+    "en": "An e-commerce brand"
+   },
+   "duration": {
+    "ar": "٦ أشهر (مستمر)",
+    "en": "6 months (ongoing)"
+   },
+   "services": [
+    {
+     "ar": "تسويق رقمي",
+     "en": "Digital marketing"
+    },
+    {
+     "ar": "تحسين محركات البحث",
+     "en": "SEO"
+    }
+   ],
+   "summary": {
+    "ar": "استراتيجية وحملات تسويق رقمي لتنمية متجر إلكتروني.",
+    "en": "A digital marketing strategy and campaigns to grow an e-commerce brand."
+   },
+   "overview": [
+    {
+     "ar": "عملنا مع GrowthGen على بناء استراتيجية تسويق متكاملة تجمع بين المحتوى والإعلانات المدفوعة وتحسين محركات البحث.",
+     "en": "We worked with GrowthGen to build an integrated marketing strategy combining content, paid ads and SEO."
+    },
+    {
+     "ar": "اعتمدنا على البيانات في كل قرار، وكنا نراجع الأداء أسبوعياً لتحسين النتائج باستمرار.",
+     "en": "We relied on data for every decision and reviewed performance weekly to keep improving results."
+    }
+   ],
+   "challenge": {
+    "ar": "كان المتجر يحقق مبيعات محدودة، وإنفاقه الإعلاني موزّع بلا استراتيجية واضحة ولا قياس دقيق للعائد.",
+    "en": "The store had limited sales, with ad spend scattered without a clear strategy or accurate return tracking."
+   },
+   "solution": {
+    "ar": "أعدنا هيكلة الحملات حسب مراحل رحلة العميل، وأطلقنا استراتيجية محتوى، وبنينا لوحة تقارير تعرض العائد لحظة بلحظة.",
+    "en": "We restructured campaigns around the customer journey, launched a content strategy and built a reporting dashboard showing returns in real time."
+   },
+   "features": [
+    {
+     "ar": "حملات إعلانية على Google وMeta",
+     "en": "Google & Meta ad campaigns"
+    },
+    {
+     "ar": "استراتيجية محتوى وSEO",
+     "en": "Content & SEO strategy"
+    },
+    {
+     "ar": "لوحة تقارير مباشرة",
+     "en": "Live reporting dashboard"
+    },
+    {
+     "ar": "اختبارات A/B مستمرة",
+     "en": "Continuous A/B testing"
+    }
+   ],
+   "results": [
+    {
+     "to": 210,
+     "prefix": "+",
+     "suffix": "%",
+     "label": {
+      "ar": "نمو في المبيعات",
+      "en": "Sales growth"
+     }
+    },
+    {
+     "to": 3,
+     "prefix": "",
+     "suffix": "x",
+     "label": {
+      "ar": "عائد الإنفاق الإعلاني",
+      "en": "Return on ad spend"
+     }
+    },
+    {
+     "to": 85,
+     "prefix": "+",
+     "suffix": "%",
+     "label": {
+      "ar": "زيادة الزيارات العضوية",
+      "en": "Organic traffic increase"
+     }
+    }
+   ],
+   "tools": [
+    "Google Ads",
+    "Meta Ads",
+    "GA4",
+    "Looker Studio"
+   ],
+   "liveUrl": "",
+   "order": 2,
+   "published": true,
+   "cover": "",
+   "caseStudy": null,
+   "id": "growthgen"
+  },
+  {
+   "slug": "nexora",
+   "title": "Nexora",
+   "category": "branding",
+   "art": "brand",
+   "gallery": [
+    "brand",
+    "app",
+    "laptop"
+   ],
+   "year": "2025",
+   "client": {
+    "ar": "شركة تقنية حديثة",
+    "en": "A modern tech company"
+   },
+   "duration": {
+    "ar": "٥ أشهر",
+    "en": "5 months"
+   },
+   "services": [
+    {
+     "ar": "هوية العلامة التجارية",
+     "en": "Brand identity"
+    },
+    {
+     "ar": "تطوير مواقع",
+     "en": "Web development"
+    }
+   ],
+   "summary": {
+    "ar": "هوية بصرية متكاملة لشركة تقنية حديثة.",
+    "en": "A complete brand identity and visual system for a modern tech company."
+   },
+   "caseStudy": {
+    "sub": {
+     "ar": "هوية العلامة وتجربة رقمية",
+     "en": "Brand Identity & Digital Experience"
+    },
+    "desc": {
+     "ar": "عملنا مع Nexora لبناء هوية علامة متكاملة وحضور رقمي لشركة تقنية حديثة، لتتميّز في سوق تنافسي وتتواصل بشكل أفضل مع جمهورها.",
+     "en": "We worked with Nexora to build a complete brand identity and digital presence for a modern tech company, helping them stand out in a competitive market and connect better with their audience."
+    },
+    "stat": {
+     "to": 120,
+     "prefix": "+",
+     "suffix": "%",
+     "label": {
+      "ar": "زيادة في الوعي بالعلامة",
+      "en": "Increase in brand awareness"
+     }
+    }
+   },
+   "overview": [
+    {
+     "ar": "Nexora شركة تقنية ناشئة أرادت هوية تعكس الابتكار والثقة في آنٍ واحد، وتصلح للاستخدام على الويب والتطبيقات والمطبوعات.",
+     "en": "Nexora is a tech startup that wanted an identity that reflects innovation and trust at once, working across web, apps and print."
+    },
+    {
+     "ar": "قدّمنا لهم رحلة كاملة: من ورشة العمل الاستراتيجية إلى الشعار والدليل الإرشادي والموقع الإلكتروني.",
+     "en": "We delivered the full journey: from a strategy workshop to the logo, brand guidelines and website."
+    }
+   ],
+   "challenge": {
+    "ar": "كانت الشركة تظهر كأي شركة تقنية أخرى، بلا هوية بصرية موحّدة ولا رسالة واضحة تميّزها عن منافسيها.",
+    "en": "The company looked like any other tech firm, with no unified visual identity and no clear message to set it apart."
+   },
+   "solution": {
+    "ar": "صغنا قصة علامة واضحة، وصمّمنا شعاراً مرناً ونظاماً بصرياً متكاملاً، وطبّقناه على الموقع والتطبيق والمطبوعات.",
+    "en": "We shaped a clear brand story, designed a flexible logo and complete visual system, and applied it across the website, app and print."
+   },
+   "features": [
+    {
+     "ar": "شعار مرن وعائلة ألوان",
+     "en": "Flexible logo and colour family"
+    },
+    {
+     "ar": "دليل هوية كامل",
+     "en": "Complete brand guidelines"
+    },
+    {
+     "ar": "تصاميم سوشيال ميديا جاهزة",
+     "en": "Ready social media templates"
+    },
+    {
+     "ar": "موقع إلكتروني بهوية موحّدة",
+     "en": "Website with unified identity"
+    }
+   ],
+   "results": [
+    {
+     "to": 120,
+     "prefix": "+",
+     "suffix": "%",
+     "label": {
+      "ar": "زيادة في الوعي بالعلامة",
+      "en": "Increase in brand awareness"
+     }
+    },
+    {
+     "to": 3,
+     "prefix": "",
+     "suffix": "x",
+     "label": {
+      "ar": "تفاعل أعلى على السوشيال",
+      "en": "Higher social engagement"
+     }
+    },
+    {
+     "to": 25,
+     "prefix": "+",
+     "suffix": "",
+     "label": {
+      "ar": "عميل جديد خلال ٣ أشهر",
+      "en": "New clients in 3 months"
+     }
+    }
+   ],
+   "tools": [
+    "Illustrator",
+    "Figma",
+    "After Effects",
+    "React"
+   ],
+   "liveUrl": "",
+   "order": 3,
+   "published": true,
+   "cover": "",
+   "id": "nexora"
+  },
+  {
+   "slug": "financehub",
+   "title": "FinanceHub",
+   "category": "web",
+   "art": "finance",
+   "gallery": [
+    "finance",
+    "dash",
+    "laptop"
+   ],
+   "year": "2024",
+   "client": {
+    "ar": "شركة خدمات مالية",
+    "en": "A financial services firm"
+   },
+   "duration": {
+    "ar": "٥ أشهر",
+    "en": "5 months"
+   },
+   "services": [
+    {
+     "ar": "تطوير مواقع",
+     "en": "Web development"
+    },
+    {
+     "ar": "تصميم لوحات بيانات",
+     "en": "Dashboard design"
+    }
+   ],
+   "summary": {
+    "ar": "لوحة بيانات مالية بتحليلات قوية وواجهة سهلة الاستخدام.",
+    "en": "A financial dashboard with powerful analytics and an easy-to-use interface."
+   },
+   "overview": [
+    {
+     "ar": "FinanceHub لوحة تحكم تجمع بيانات الحسابات والمصروفات والاستثمارات في مكان واحد، لتمنح الفرق المالية رؤية واضحة وفورية.",
+     "en": "FinanceHub is a dashboard that gathers accounts, expenses and investments in one place, giving finance teams a clear, instant view."
+    },
+    {
+     "ar": "صمّمنا وطوّرنا المنصة بالكامل مع التركيز على الأمان وسهولة قراءة الأرقام.",
+     "en": "We designed and developed the whole platform with a focus on security and easy-to-read numbers."
+    }
+   ],
+   "challenge": {
+    "ar": "كانت الفرق تعتمد على جداول متفرقة تستغرق ساعات لتجميعها، وكانت التقارير عرضة للأخطاء وتأتي متأخرة.",
+    "en": "Teams relied on scattered spreadsheets that took hours to compile, and reports were error-prone and late."
+   },
+   "solution": {
+    "ar": "بنينا لوحة موحّدة تسحب البيانات تلقائياً وتعرضها برسوم واضحة، مع صلاحيات دقيقة وتقارير جاهزة للتصدير.",
+    "en": "We built a unified dashboard that pulls data automatically and shows it in clear charts, with granular permissions and export-ready reports."
+   },
+   "features": [
+    {
+     "ar": "رسوم بيانية تفاعلية",
+     "en": "Interactive charts"
+    },
+    {
+     "ar": "صلاحيات حسب الدور",
+     "en": "Role-based permissions"
+    },
+    {
+     "ar": "تقارير قابلة للتصدير",
+     "en": "Exportable reports"
+    },
+    {
+     "ar": "تنبيهات ذكية",
+     "en": "Smart alerts"
+    }
+   ],
+   "results": [
+    {
+     "to": 70,
+     "prefix": "-",
+     "suffix": "%",
+     "label": {
+      "ar": "وقت إعداد التقارير",
+      "en": "Reporting time"
+     }
+    },
+    {
+     "to": 99,
+     "prefix": "",
+     "suffix": "%",
+     "label": {
+      "ar": "دقة البيانات",
+      "en": "Data accuracy"
+     }
+    },
+    {
+     "to": 5,
+     "prefix": "+",
+     "suffix": "",
+     "label": {
+      "ar": "فرق تستخدم المنصة",
+      "en": "Teams using the platform"
+     }
+    }
+   ],
+   "tools": [
+    "React",
+    "TypeScript",
+    "Node.js",
+    "Chart.js"
+   ],
+   "liveUrl": "",
+   "order": 4,
+   "published": true,
+   "cover": "",
+   "caseStudy": null,
+   "id": "financehub"
+  },
+  {
+   "slug": "appcraft",
+   "title": "AppCraft",
+   "category": "uiux",
+   "art": "app",
+   "gallery": [
+    "app",
+    "phones",
+    "brand"
+   ],
+   "year": "2026",
+   "client": {
+    "ar": "وكالة إبداعية",
+    "en": "A creative agency"
+   },
+   "duration": {
+    "ar": "٤ أشهر",
+    "en": "4 months"
+   },
+   "services": [
+    {
+     "ar": "تصميم UI/UX",
+     "en": "UI/UX design"
+    },
+    {
+     "ar": "تطوير تطبيقات",
+     "en": "App development"
+    }
+   ],
+   "summary": {
+    "ar": "تطبيق مخصص لوكالة إبداعية يركّز على تجربة مستخدم استثنائية.",
+    "en": "A custom app for a creative agency with a focus on exceptional user experience."
+   },
+   "overview": [
+    {
+     "ar": "AppCraft تطبيق داخلي يساعد فريق الوكالة على إدارة المشاريع والملفات والتغذية الراجعة من العملاء في مكان واحد.",
+     "en": "AppCraft is an internal app that helps the agency team manage projects, files and client feedback in one place."
+    },
+    {
+     "ar": "ركّزنا على بساطة التصميم وسرعة الاستخدام، فالفريق يقضي فيه ساعات كل يوم.",
+     "en": "We focused on simple design and speed, since the team spends hours in it every day."
+    }
+   ],
+   "challenge": {
+    "ar": "كان الفريق يتنقل بين عدة أدوات منفصلة لإدارة العمل، مما يسبب ضياع الملفات وتكرار الجهد وتأخر التسليم.",
+    "en": "The team juggled several separate tools to manage work, causing lost files, duplicated effort and late deliveries."
+   },
+   "solution": {
+    "ar": "دمجنا إدارة المهام والملفات والمراجعات في تطبيق واحد بواجهة بسيطة، مع إشعارات ذكية وسير عمل قابل للتخصيص.",
+    "en": "We combined task, file and review management into one app with a simple interface, smart notifications and customizable workflows."
+   },
+   "features": [
+    {
+     "ar": "لوحات مهام مرنة",
+     "en": "Flexible task boards"
+    },
+    {
+     "ar": "مراجعة الملفات والتعليق عليها",
+     "en": "File review and comments"
+    },
+    {
+     "ar": "إشعارات ذكية",
+     "en": "Smart notifications"
+    },
+    {
+     "ar": "تطبيق للجوال والويب",
+     "en": "Mobile and web apps"
+    }
+   ],
+   "results": [
+    {
+     "to": 35,
+     "prefix": "-",
+     "suffix": "%",
+     "label": {
+      "ar": "وقت التسليم",
+      "en": "Delivery time"
+     }
+    },
+    {
+     "to": 5,
+     "prefix": "",
+     "suffix": "→1",
+     "label": {
+      "ar": "أدوات في أداة واحدة",
+      "en": "Tools merged into one"
+     }
+    },
+    {
+     "to": 92,
+     "prefix": "",
+     "suffix": "%",
+     "label": {
+      "ar": "رضا الفريق",
+      "en": "Team satisfaction"
+     }
+    }
+   ],
+   "tools": [
+    "React Native",
+    "Figma",
+    "Firebase",
+    "Lottie"
+   ],
+   "liveUrl": "",
+   "order": 5,
+   "published": true,
+   "cover": "",
+   "caseStudy": null,
+   "id": "appcraft"
+  }
+ ]
+}
