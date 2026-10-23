@@ -843,7 +843,6 @@
    "email": "hello@pdm.com",
    "phone": "+970 59 123 4567",
    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ramallah+Palestine",
-   "recipient": "hello@pdm.com",
    "socials": [
     {
      "name": "instagram",
@@ -864,32 +863,14 @@
    ]
   },
   "slider": {
-   "enabled": true,
+   "customEnabled": false,
    "autoplay": true,
    "interval": 5,
    "transition": "fade",
    "showDots": true,
    "showArrows": true,
    "pauseOnHover": true,
-   "slides": [
-    {
-     "id": "s1",
-     "image": "",
-     "active": true,
-     "alt": {
-      "ar": "صورة رئيسية",
-      "en": "Hero image"
-     },
-     "title": {
-      "ar": "",
-      "en": ""
-     },
-     "subtitle": {
-      "ar": "",
-      "en": ""
-     }
-    }
-   ]
+   "slides": []
   },
   "settings": {
    "siteName": {
@@ -1286,7 +1267,8 @@
    "published": true,
    "cover": "",
    "caseStudy": null,
-   "id": "travelvista"
+   "id": "travelvista",
+   "inSlider": true
   },
   {
    "slug": "fitlife",
@@ -1397,7 +1379,8 @@
    "published": true,
    "cover": "",
    "caseStudy": null,
-   "id": "fitlife"
+   "id": "fitlife",
+   "inSlider": true
   },
   {
    "slug": "growthgen",
@@ -1508,7 +1491,8 @@
    "published": true,
    "cover": "",
    "caseStudy": null,
-   "id": "growthgen"
+   "id": "growthgen",
+   "inSlider": true
   },
   {
    "slug": "nexora",
@@ -1637,7 +1621,8 @@
    "order": 3,
    "published": true,
    "cover": "",
-   "id": "nexora"
+   "id": "nexora",
+   "inSlider": true
   },
   {
    "slug": "financehub",
@@ -1748,7 +1733,8 @@
    "published": true,
    "cover": "",
    "caseStudy": null,
-   "id": "financehub"
+   "id": "financehub",
+   "inSlider": true
   },
   {
    "slug": "appcraft",
@@ -1859,7 +1845,8 @@
    "published": true,
    "cover": "",
    "caseStudy": null,
-   "id": "appcraft"
+   "id": "appcraft",
+   "inSlider": true
   }
  ]
 }

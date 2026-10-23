@@ -61,10 +61,21 @@ function freshDb() {
   };
 }
 
+/** ترقية بيانات قديمة محفوظة بالمتصفح لشكل النسخة الحالية */
+function migrate(db) {
+  const s = db.site;
+  if (s.contact) delete s.contact.recipient;
+  const old = s.slider || {};
+  const slides = (old.slides || []).filter((x) => !(x.id === 's1' && !x.image));
+  s.slider = { ...clone(seed.site.slider), ...old, slides, customEnabled: !!old.customEnabled };
+  delete s.slider.enabled;
+  return db;
+}
+
 function load() {
   try {
     const raw = localStorage.getItem(DB_KEY);
-    if (raw) return JSON.parse(raw);
+    if (raw) return migrate(JSON.parse(raw));
   } catch { /* ignore */ }
   const db = freshDb();
   persist(db);

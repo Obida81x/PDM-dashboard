@@ -1,7 +1,8 @@
 import { useEffect, useRef, useState } from 'react';
 import { api } from '../services/api';
 import { useUI } from '../context/UIContext';
-import { emptyL, fmtSize } from '../utils';
+import { emptyL, fmtSize, isImgUrl } from '../utils';
+import { Crumbs } from './Cards';
 import Icon from './Icon';
 
 /** غلاف موحّد لكل حقل: عنوان + ملاحظة */
@@ -100,7 +101,7 @@ export function ListEditor({ label, hint, items = [], onChange, renderItem, make
 }
 
 /* ───────────── الصور ───────────── */
-export const isImg = (s) => typeof s === 'string' && /^(https?:)?\/\/|^\/|^data:image/.test(s);
+export const isImg = isImgUrl;
 
 /** رفع صورة + اختيار من المكتبة + رابط يدوي */
 export function ImageField({ label, hint, value, onChange, wide }) {
@@ -184,17 +185,62 @@ export function Card({ title, desc, actions, children, className = '' }) {
   );
 }
 
-export function PageHead({ title, desc, actions }) {
+export function PageHead({ title, desc, actions, crumbs }) {
   return (
-    <div className="page-head">
-      <div><h1>{title}</h1>{desc && <p>{desc}</p>}</div>
-      {actions && <div className="page-actions">{actions}</div>}
-    </div>
+    <>
+      {crumbs && <Crumbs items={crumbs} />}
+      <div className="page-head">
+        <div><h1>{title}</h1>{desc && <p>{desc}</p>}</div>
+        {actions && <div className="page-actions">{actions}</div>}
+      </div>
+    </>
   );
 }
 
 export function Empty({ icon = 'folder', title, text, action }) {
   return (
     <div className="empty"><span><Icon name={icon} size={28} /></span><h3>{title}</h3>{text && <p>{text}</p>}{action}</div>
+  );
+}
+
+/** معرض صور: رفع عدة صور دفعة وحدة + ترتيب وحذف (الرسمات المدمجة القديمة بتظهر كمكان فاضي) */
+export function GalleryField({ label, hint, items = [], onChange }) {
+  const { toast, confirm } = useUI();
+  const [busy, setBusy] = useState(false);
+  const [lib, setLib] = useState(false);
+  const input = useRef(null);
+
+  const upload = async (files) => {
+    setBusy(true);
+    const urls = [];
+    for (const f of files) {
+      if (!f.type.startsWith('image/')) { toast(`${f.name}: ليس صورة`, 'err'); continue; }
+      try { urls.push((await api.uploadMedia(f)).url); } catch (e) { toast(e.message, 'err'); break; }
+    }
+    if (urls.length) { onChange([...items, ...urls]); toast(`تمت إضافة ${urls.length} صورة`); }
+    setBusy(false);
+  };
+  const move = (i, d) => { const j = i + d; if (j < 0 || j >= items.length) return; const n = [...items]; [n[i], n[j]] = [n[j], n[i]]; onChange(n); };
+  const remove = async (i) => { if (await confirm({ title: 'حذف الصورة من المشروع؟', danger: true, okLabel: 'حذف' })) onChange(items.filter((_, k) => k !== i)); };
+
+  return (
+    <Field label={label} hint={hint}>
+      <div className="gal">
+        {items.map((g, i) => (
+          <div className="gal-tile" key={`${i}-${String(g).slice(-12)}`}>
+            {isImg(g) ? <img src={g} alt="" loading="lazy" /> : <span className="gal-art"><Icon name="image" size={20} />{g || 'فارغ'}</span>}
+            <div className="gal-tools">
+              <button type="button" className="icon-btn" title="تقديم" onClick={() => move(i, -1)} disabled={i === 0}><Icon name="right" size={14} /></button>
+              <button type="button" className="icon-btn" title="تأخير" onClick={() => move(i, 1)} disabled={i === items.length - 1}><Icon name="left" size={14} /></button>
+              <button type="button" className="icon-btn danger" title="حذف" onClick={() => remove(i)}><Icon name="trash" size={14} /></button>
+            </div>
+          </div>
+        ))}
+        <button type="button" className="gal-add" disabled={busy} onClick={() => input.current?.click()}><Icon name="upload" size={22} /><span>{busy ? 'جاري الرفع…' : 'رفع صور'}</span></button>
+        <button type="button" className="gal-add" onClick={() => setLib(true)}><Icon name="layers" size={22} /><span>من المكتبة</span></button>
+        <input ref={input} type="file" accept="image/*" multiple hidden onChange={(e) => { upload([...e.target.files]); e.target.value = ''; }} />
+      </div>
+      {lib && <MediaPicker onClose={() => setLib(false)} onPick={(u) => { onChange([...items, u]); setLib(false); }} />}
+    </Field>
   );
 }

@@ -29,13 +29,12 @@ export default function App() {
         <Route element={<Guard><Layout /></Guard>}>
           <Route index element={<Overview />} />
           <Route path="analytics" element={<Analytics />} />
-          <Route path="slider" element={<Slider />} />
-          <Route path="content" element={<Content />} />
+          <Route path="slider/*" element={<Slider />} />
+          <Route path="content/*" element={<Content />} />
           <Route path="contact-info" element={<ContactInfo />} />
           <Route path="projects" element={<Projects />} />
-          <Route path="projects/new" element={<ProjectEdit />} />
-          <Route path="projects/:id" element={<ProjectEdit />} />
-          <Route path="story" element={<Story />} />
+          <Route path="projects/:id/*" element={<ProjectEdit />} />
+          <Route path="story/*" element={<Story />} />
           <Route path="messages" element={<Messages />} />
           <Route path="media" element={<Media />} />
           <Route path="users" element={<Users />} />

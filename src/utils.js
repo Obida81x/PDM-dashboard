@@ -30,3 +30,10 @@ export function ago(iso) {
 }
 
 export const emptyL = () => ({ ar: '', en: '' });
+
+export const isImgUrl = (s) => typeof s === 'string' && /^(https?:)?\/\/|^\/|^data:image/.test(s);
+
+/** صور المشروع الحقيقية (الغلاف + المعرض) بدون تكرار — هي اللي بتنضاف تلقائياً للسلايدر الرئيسي */
+export function sliderImages(p) {
+  return [...new Set([p.cover, ...(p.gallery || [])].filter(isImgUrl))];
+}
